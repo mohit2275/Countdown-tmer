@@ -1,4 +1,4 @@
-let endDate = "31 December 2023 , 11:59s PM"
+let endDate = "31 December 2023 , 11:59 PM"
 
 document.getElementById('end-date').innerText = endDate;
 
